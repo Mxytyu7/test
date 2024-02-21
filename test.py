@@ -10,7 +10,7 @@ client_id = "1207763757715951646"
 client_secret = "pKtPqB8PcqRGDOE0NpLmtGBlSNfzVVrF"
 redirect_uri = "https://5b5af42a-a5d8-4f74-b2f9-509a2de7b9fe-00-1bxu3pv3nu2b1.picard.replit.dev/callback"
 discord_api_url = "https://discord.com/api"
-bot_token = "MTIwNzc2Mzc1NzcxNTk1MTY0Ng.GcMuBj.CxhqU-3a9pCBpWZBbSJRBbdHfOL8QH8brrlJ5M"
+bot_token = "MTIwNzc2Mzc1NzcxNTk1MTY0Ng.Gybccx.TIeMwM-BPv3UvXezAAyIYkaws_W85_zg5Q2HWE"
 
 intents = discord.Intents.all()
 intents.guilds = True  # Required to receive guild-related events
